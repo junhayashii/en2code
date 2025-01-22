@@ -1,0 +1,14 @@
+[
+  {
+    "course": "python_basics",
+    "title": "Hello World",
+    "markdown_path": "static/python_basics/lesson1.md",
+    "order": 1
+  },
+  {
+    "course": "python_basics",
+    "title": "Variables",
+    "markdown_path": "static/python_basics/lesson2.md",
+    "order": 2
+  }
+]
